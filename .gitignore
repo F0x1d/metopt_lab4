@@ -1,0 +1,5 @@
+REPORT.md
+__pycache__
+.ruff_cache
+TASK.xlsx
+.DS_Store
